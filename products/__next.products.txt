@@ -2,4 +2,4 @@
 2:I[39756,["/aura-store/_next/static/chunks/0vxr1fjkccp3u.js","/aura-store/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
 3:I[37457,["/aura-store/_next/static/chunks/0vxr1fjkccp3u.js","/aura-store/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"cGD6iCei7YIlv--C5j1k4"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"pBpGdY8Zexk7XH5zgmipa"}
